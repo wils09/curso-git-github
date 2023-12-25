@@ -1,0 +1,138 @@
+commit 89a0c468ff07591446c4095cb11948804eb607c8
+Merge: cf8d26b 08697ec
+Author: CrisW <wilsoncc09@gmail.com>
+Date:   Mon Dec 25 08:10:17 2023 -0300
+
+    Merge pull request #1 from crisquantium/readme-crisquantium
+    
+    Readme crisquantium
+
+commit 08697ecb0ff5b210861599deb8ce83fca211e710
+Author: crisquantium <criscodetechx@gmail.com>
+Date:   Sun Dec 24 21:54:26 2023 -0300
+
+    Haciendo mejoras al readme del repositorio
+
+commit 031da6979ff7c69f49b11f00f6000aad870c0990
+Author: crisquantium <criscodetechx@gmail.com>
+Date:   Sun Dec 24 21:36:30 2023 -0300
+
+    Cambio de prueba de la segunda cuenta de Git
+
+commit cf8d26b71acdb9c754a9369a8f0b6501d6c8d353
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 22 12:55:49 2023 -0300
+
+    Agregando imagen de git y hermoseando el index.html
+
+commit 9b0d1537d944c47e4678ffba1719f63fa260b1c0
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 22 12:11:24 2023 -0300
+
+    v1.0.0
+
+commit 81ecac0f96b575ed14a47e3fc2cf8b73d2c865f4
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Thu Dec 21 10:31:32 2023 -0300
+
+    Respaldando logs del repositorio
+
+commit 069d1dec10dadb1ed48718f6a5ecdb9643dd1f59
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Wed Dec 20 10:15:04 2023 -0300
+
+    Agregando dos parrafos
+
+commit 2371c8b18f9738f8385759f5103f25d72d16adc3
+Merge: da30f4d 2cf530e
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Wed Dec 20 10:13:12 2023 -0300
+
+    Resolviendo conflictos en estaciones del año y fechas de inicio
+
+commit da30f4d16b3c264e4706a4d9ab2d00cb56780cbd
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Wed Dec 20 09:57:48 2023 -0300
+
+    Agregando estaciones del año con fechas
+
+commit 2cf530e8597c818c3998ff8767e96c0746f7444f
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Wed Dec 20 09:57:48 2023 -0300
+
+    Agregando las estaciones del año
+
+commit 1c9ee530d46429569703a486027af46e4e56e201
+Merge: 6d79093 6469f67
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:49:45 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 6469f6765fcd86c127963a0da65c2c7575a2cbf4
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:41:24 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 6d79093e0de0ea84d8524ecdcc3ad9528c1486e1
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:36:26 2023 -0300
+
+    Agregando style.css al index.html
+
+commit bed50710243beca56327c0eb2675f47f02563c03
+Merge: cb384f2 39f9701
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:24:32 2023 -0300
+
+    Merge branch 'js'
+
+commit 39f970174ff496b0123fcfed38f5a9b9147c500c
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:17:29 2023 -0300
+
+    Creando index.js
+
+commit cb384f2a0b405cc228637f6f63fe9c89e7f2b98c
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:11:20 2023 -0300
+
+    creando style.css
+
+commit a6a1cc3e3e1f6f3442cedd0e2aff4ae7619829f5
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 20:05:09 2023 -0300
+
+    Creando index.html
+
+commit 500322d38a61c8dcc314f849ed59749a493e97b5
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 19:48:26 2023 -0300
+
+    ignorando archivos .exe
+
+commit ad424bd5edaccca4e3e1d81906ba820d67828aa6
+Author: CrisW <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 10:16:49 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 7fe91198d0e5a52c02e53274e88b588f26bf944d
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Fri Dec 15 09:58:43 2023 -0300
+
+    Agregando mas contenido al README
+
+commit f6758f883f417587263dfe61804ca0812f6953fe
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Thu Dec 14 10:48:44 2023 -0300
+
+    agregando contenido inicial al readme
+
+commit 6e5dfa9d78361f2142205154643b40a1bb7cbca3
+Author: wilson09 <wilsoncc09@gmail.com>
+Date:   Thu Dec 14 10:30:51 2023 -0300
+
+    Primer commit ‼
+    ~
